@@ -1,11 +1,4 @@
-<h1 align="center">GimKit Hack</h1>
-<h3 align="center">One of the best GimKit hacks.</h3>
-<h2 align="center">Discord Support Server: https://discord.gg/abqMVbDanB</h2>
-<h2 align="center">Credits to <a href="https://github.com/hostedposted">@hostedposted</a> for helping me!</h3>
-
-#### Made by rxzyx (rzx). This is purley for education purposes.
-- 📫 Have a problem? **Just write an issue and I will do my best to respond.**
-
+MADE BY JULIAN (teleporter)
 ## How To Use:
 
 - Simply open the file that sounds more interesting, click the "Raw" button, then copy the code and paste it into the chrome console when you're on gimkit.
@@ -20,9 +13,9 @@
 - Classic:
     - <a href="https://github.com/rxzyx/GimKit-Hacks/blob/main/Classic/Get%20Cash.js">Get Cash</a> - This program will set your cash to anything you want [after refreshing and (re-)joining a game.]
 
-#### I am not responsible for your actions with these cheats.
+Julian is so sigma
 
 <h3 align="left">Made With JavaScript:</h3>
 <p align="left"> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> </p>
 
-#### Copyright &copy; 2022 rzx.
+The Teleporter 2024
